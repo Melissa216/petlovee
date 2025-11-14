@@ -3,7 +3,7 @@ class Database {
     private $host = 'localhost';
     private $db_name = 'petlove.db';
     private $username = 'root';
-    private $password = '@luno';
+    private $password = '&tec77@info!';
     public $conn;
 
     public function getConnection() {
